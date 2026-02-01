@@ -3,7 +3,7 @@
 This repository contains my project submissions for the **CodeAlpha Web Development Internship (January Batch)**. Each task is organized into its own directory.
 
 > **Intern:** David Godspower Ajala
-> **Domain:** Web Development
+> **Domain:** Frontend Development
 > **Batch:** January 2026
 
 ---
@@ -44,7 +44,7 @@ This repository contains my project submissions for the **CodeAlpha Web Developm
 ## 🤝 Connect with Me
 
 * **LinkedIn:** [David Godspower Ajala](https://www.linkedin.com/in/david-godspower-ajala/)
-* **GitHub:** [David-Godspower](https://github.com/David-Godspower)
+* **GitHub:** [David Godspower](https://github.com/David-Godspower)
 
 ---
 
