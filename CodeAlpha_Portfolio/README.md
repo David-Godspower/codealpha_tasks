@@ -35,7 +35,7 @@ A professional, fully responsive **Personal Portfolio Website** built as the fin
 ---
 ### 📂 Project Structure
 
-CodeAlpha_ImageGallery/ ├── index.html # Main HTML structure ├── style.css # Styling and layout ├── script.js # Calculation logic └── README.md # Project documentation
+CodeAlpha_Portfolio/ ├── index.html # Main HTML structure ├── style.css # Styling and layout ├── script.js # Calculation logic └── README.md # Project documentation
 
 ## 👨‍💻 Author
 
