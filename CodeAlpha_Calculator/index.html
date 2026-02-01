@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Modern Calculator</title>
+    <link rel="stylesheet" href="styles.css" />
+    <!-- Font Awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div class="calculator">
+      <div class="display">
+        <input type="text" id="screen" placeholder="0" disabled />
+      </div>
+
+      <div class="keys">
+        <button onclick="clearScreen()" class="operator-btn">AC</button>
+        <button onclick="deleteLast()" class="operator-btn">DEL</button>
+        <button onclick="appendValue('%')" class="operator-btn">%</button>
+        <button onclick="appendValue('/')" class="operator-btn">÷</button>
+
+        <button onclick="appendValue('7')">7</button>
+        <button onclick="appendValue('8')">8</button>
+        <button onclick="appendValue('9')">9</button>
+        <button onclick="appendValue('*')" class="operator-btn">×</button>
+
+        <button onclick="appendValue('4')">4</button>
+        <button onclick="appendValue('5')">5</button>
+        <button onclick="appendValue('6')">6</button>
+        <button onclick="appendValue('-')" class="operator-btn">−</button>
+
+        <button onclick="appendValue('1')">1</button>
+        <button onclick="appendValue('2')">2</button>
+        <button onclick="appendValue('3')">3</button>
+        <button onclick="appendValue('+')" class="operator-btn">+</button>
+
+        <button onclick="appendValue('0')" class="zero-btn">0</button>
+        <button onclick="appendValue('.')">.</button>
+        <button onclick="calculateResult()" class="equal-btn">=</button>
+      </div>
+    </div>
+    <footer>
+      <p>
+        <a
+          href="https://david-godspower.github.io/david-portfolio/"
+          target="_blank"
+          >David Godspower Ajala (D.G.A.) &copy; <span id="year"></span
+        ></a>
+      </p>
+      <br />
+      <a
+        href="https://www.linkedin.com/in/david-godspower-ajala/"
+        target="_blank"
+        ><i class="fab fa-linkedin icons" id="linkedin"></i
+      ></a>
+      <a
+        href="https://web.facebook.com/facebook.comDavidGodpowerAjalaDGA/"
+        target="_blank"
+        ><i class="fab fa-facebook icons" id="facebook"></i
+      ></a>
+      <a href="https://x.com/ajala28981" target="_blank"
+        ><i class="fab fa-x-twitter icons" id="x"></i
+      ></a>
+      <a href="mailto:ajaladavid11@gmail.com" target="_blank"
+        ><i class="fas fa-envelope icons" id="gmail"></i
+      ></a>
+      <a href="https://x.com/ajala28981" target="_blank"
+        ><i class="fab fa-x icons" id="x"></i></a
+      >&nbsp;&nbsp;&nbsp;
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
