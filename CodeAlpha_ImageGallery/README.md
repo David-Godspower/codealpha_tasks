@@ -1,4 +1,4 @@
-# 📸 PCN Showcase Gallery (Task 1)
+# 📸 Image Gallery (Task 1)
 
 A responsive, dark-themed **Image Gallery** built as part of the **CodeAlpha Web Development Internship**. This project features a modern CSS Grid layout, hover animations, and a custom JavaScript Lightbox for viewing images in full screen.
 
