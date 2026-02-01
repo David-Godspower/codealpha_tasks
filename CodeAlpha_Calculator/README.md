@@ -1,4 +1,4 @@
-# 🧮 Modern Scientific Calculator
+# 🧮 Calculator
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
@@ -10,7 +10,10 @@ It features a sleek, dark-mode user interface designed with **Neumorphism princi
 
 ## 🚀 Live Demo
 
-👉 **[View Live Project Here](https://david-godspower.github.io/CodeAlpha_Calculator/)** ## ✨ Features
+👉 **[View Live Project Here](https://david-godspower.github.io/CodeAlpha_Calculator/)** 
+
+
+ ## ✨ Features
 
 - **Dark Mode UI:** A clean, eye-friendly dark interface.
 - **Responsive Design:** Adjusts perfectly to mobile screens using CSS Flexbox/Grid.
