@@ -1,6 +1,6 @@
 # 👨‍💻 Personal Portfolio Website (Task 3)
 
-A professional, fully responsive **Personal Portfolio Website** built as the final task for the **CodeAlpha Web Development Internship**. This site serves as a central hub to showcase my skills, projects, and professional identity as a **Software Developer** and **Founder of Power Creative Network**.
+A professional, fully responsive **Personal Portfolio Website** built as the final task for the **CodeAlpha Frontend Development Internship**. This site serves as a central hub to showcase my skills, projects, and professional identity as a **Software Developer** and **Founder of Power Creative Network**.
 
 > **Task:** Frontend Development Task 3 (Portfolio)
 > **Developer:** David Godspower Ajala (D.G.A.)
@@ -48,3 +48,4 @@ CodeAlpha_Portfolio/ ├── index.html # Main HTML structure ├── style.
 ---
 
 _Built with ❤️ for the CodeAlpha Internship Program._
+
