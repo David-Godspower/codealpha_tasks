@@ -22,11 +22,6 @@ A responsive, dark-themed **Image Gallery** built as part of the **CodeAlpha Web
 * **CSS3:** Flexbox, Grid, Media Queries, and CSS Variables.
 * **JavaScript:** DOM manipulation for the modal logic and image navigation.
 
----
-## 📂 Project Structure
-
-CodeAlpha_Calculator/ ├── index.html # Main HTML structure ├── style.css # Styling and layout ├── script.js # Calculation logic └── README.md # Project documentation
-
 ## 👨‍💻 Author
 
 **David Godspower Ajala** _Creative Technologist & Software Engineer_
@@ -38,5 +33,6 @@ CodeAlpha_Calculator/ ├── index.html # Main HTML structure ├── style
 ---
 
 _Built with ❤️ for the CodeAlpha Internship Program._
+
 
 
