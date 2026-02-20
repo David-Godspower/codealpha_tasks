@@ -1,6 +1,6 @@
-# 🚀 CodeAlpha Web Development Internship Tasks
+# 🚀 CodeAlpha Frontend Development Internship Tasks
 
-This repository contains my project submissions for the **CodeAlpha Web Development Internship (January Batch)**. Each task is organized into its own directory.
+This repository contains my project submissions for the **CodeAlpha Frontend Development Internship (January Batch)**. Each task is organized into its own directory.
 
 > **Intern:** David Godspower Ajala
 > **Domain:** Frontend Development
@@ -30,7 +30,7 @@ This repository contains my project submissions for the **CodeAlpha Web Developm
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/codealpha_tasks.git](https://github.com/YourUsername/codealpha_tasks.git)
+    git clone (https://github.com/YourUsername/codealpha_tasks.git)
     ```
 2.  **Navigate to a specific task:**
     ```bash
@@ -49,5 +49,6 @@ This repository contains my project submissions for the **CodeAlpha Web Developm
 ---
 
 ## 📝 License
+
 
 This repository is created for submission to CodeAlpha.
