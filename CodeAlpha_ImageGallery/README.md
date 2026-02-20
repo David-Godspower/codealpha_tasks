@@ -11,7 +11,6 @@ A responsive, dark-themed **Image Gallery** built as part of the **CodeAlpha Web
 
 * **Responsive Grid Layout:** Automatically adjusts columns based on screen size (Mobile, Tablet, Desktop).
 * **Interactive Lightbox:** Custom modal allowing users to view high-resolution images without leaving the page.
-* **Image Navigation:** "Next" and "Previous" controls to cycle through the gallery within the lightbox.
 * **Modern UI:** Dark theme (`#1F2937`) with professional Gold (`#FFD700`) accents.
 * **Smooth Animations:** Hover effects on cards and fade-in transitions for images.
 
@@ -39,3 +38,4 @@ CodeAlpha_Calculator/ ├── index.html # Main HTML structure ├── style
 ---
 
 _Built with ❤️ for the CodeAlpha Internship Program._
+
