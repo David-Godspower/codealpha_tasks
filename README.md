@@ -30,7 +30,7 @@ This repository contains my project submissions for the **CodeAlpha Frontend Dev
 
 1.  **Clone the repository:**
     ```bash
-    git clone (https://github.com/YourUsername/codealpha_tasks.git)
+    git clone git@github.com:David-Godspower/codealpha_tasks.git
     ```
 2.  **Navigate to a specific task:**
     ```bash
@@ -52,3 +52,4 @@ This repository contains my project submissions for the **CodeAlpha Frontend Dev
 
 
 This repository is created for submission to CodeAlpha.
+
