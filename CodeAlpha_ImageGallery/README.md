@@ -2,7 +2,7 @@
 
 A responsive, dark-themed **Image Gallery** built as part of the **CodeAlpha Web Development Internship**. This project features a modern CSS Grid layout, hover animations, and a custom JavaScript Lightbox for viewing images in full screen.
 
-> **Task:** Web Development Task 1
+> **Task:** Frontend Development Task 1
 > **Theme:** Power Creative Network (Dark Mode & Gold Accents)
 
 ---
@@ -38,4 +38,5 @@ CodeAlpha_Calculator/ ├── index.html # Main HTML structure ├── style
 ---
 
 _Built with ❤️ for the CodeAlpha Internship Program._
+
 
